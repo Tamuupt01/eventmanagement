@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EventmanagementBeApplication<eventmanagement_be>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ateam.eventmanagement_be.EventmanagementBeApplication",
+            "projectName": "eventmanagement_be",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
